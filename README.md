@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![trebmuh's github stats](https://github-readme-stats.vercel.app/api?username=trebmuh&theme=dark&show_icons=true&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+You can read more details here: https://liberapay.com/trebmuh/
