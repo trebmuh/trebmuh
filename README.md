@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 You can read more about my work here: https://liberapay.com/trebmuh/
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=trebmuh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trebmuh&theme=dark)](https://git.io/streak-stats)
